@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Aspiring Full-Stack Developer | Blockchain & Cloud Computing Enthusiast | 🔗 GitHub: vjlive(https://github.com/vjlive) <br>📧 Email: vijayguttula001@gmail.com
+🚀 Aspiring Full-Stack Developer | Blockchain & Cloud Computing Enthusiast | 🔗 GitHub: [vjlive](https://github.com/vjlive) <br>📧 Email: vijayguttula001@gmail.com
 
 
 ## 🌐 Socials:
