@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Aspiring Full-Stack Developer | Blockchain & Cloud Computing Enthusiast | [![GitHub]([https://www.flaticon.com/free-icon/github-logo_25231](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white))] GitHub: [@VJLIVE](https://github.com/vjlive) 📧 Email: vijayguttula001@gmail.com
+🚀 Aspiring Full-Stack Developer | Blockchain & Cloud Computing Enthusiast | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)GitHub: [@VJLIVE](https://github.com/vjlive) 📧 Email: vijayguttula001@gmail.com
 
 
 ## 🌐 Socials:
