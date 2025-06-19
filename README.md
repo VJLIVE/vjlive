@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/vijay-guttula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-guttula" height="30" width="40" /></a>
 <a href="https://kaggle.com/vjlive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vjlive" height="30" width="40" /></a>
 <a href="https://medium.com/@vijayguttula001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vijayguttula001" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@vj.2210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vijayguttula001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vijayguttula001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/thisisvj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thisisvj" height="30" width="40" /></a>
 </p>
@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vjlive&show_icons=true&locale=en" alt="vjlive" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vjlive&" alt="vjlive" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vjlive&show_icons=true&locale=en" alt="vjlive" /></p>
