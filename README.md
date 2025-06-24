@@ -147,10 +147,14 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=vjlive&limit=5&combine_all_yearly_contributions=true" alt="Top Contributed Graph" height="200"/>
 </div>
 
+<h2 align="center">Latest Medium Blogs:</h2>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/0" alt="Recent Article 0">
+  
 <h2 align="center">Contribution Graph:</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vjlive&theme=react-dark&bg_color=000000&color=ffffff&line=00cfff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
+
 <hr>
 
 ### 📫 Contact Me  
