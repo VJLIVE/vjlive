@@ -144,6 +144,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vjlive&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=vjlive&show_icons=true&locale=en" alt="GitHub Stats" height="200"/>
   <img src="https://github-readme-streak-stats-vjlive.vercel.app?user=vjlive" alt="GitHub Streak" height="200"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=vjlive&limit=5&combine_all_yearly_contributions=true" alt="Top Contributed Graph" height="200"/>
 </div>
 
 <h2 align="center">Contribution Graph:</h2>
