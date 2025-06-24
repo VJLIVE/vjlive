@@ -126,7 +126,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vjlive&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=vjlive&show_icons=true&locale=en" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vjlive" alt="GitHub Streak" height="200"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vjlive)](https://git.io/streak-stats)
 </div>
 
 <h2 align="center">Contribution Graph:</h2>
