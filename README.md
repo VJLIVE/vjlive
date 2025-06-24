@@ -141,12 +141,15 @@
 
 <h2 align="center">Stats:</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vjlive&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vjlive&show_icons=true&locale=en" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats-vjlive.vercel.app?user=vjlive" alt="GitHub Streak" height="200"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=vjlive&limit=5&combine_all_yearly_contributions=true" alt="Top Contributed Graph" height="200"/>
+  <div style="display: flex; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vjlive&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=vjlive&limit=5&combine_all_yearly_contributions=true" alt="Top Contributed Graph" height="200"/>
+  </div>
+  <div style="display: flex; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vjlive&show_icons=true&locale=en" alt="GitHub Stats" height="200"/>
+    <img src="https://github-readme-streak-stats-vjlive.vercel.app?user=vjlive" alt="GitHub Streak" height="200"/>
+  </div>
 </div>
-
 
 <h2 align="center">Latest Medium Blogs:</h2>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/0" alt="Recent Article 0">
