@@ -145,8 +145,8 @@
 
   <!-- Row 1: 1st and 4th -->
   <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vjlive&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="175"/>
-    <img src="https://github-readme-streak-stats-vjlive.vercel.app?user=vjlive" alt="GitHub Streak" height="175"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vjlive&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="178"/>
+    <img src="https://github-readme-streak-stats-vjlive.vercel.app?user=vjlive" alt="GitHub Streak" height="178"/>
   </div>
 
   <!-- Row 2: 2nd and 3rd (Slightly Taller) -->
