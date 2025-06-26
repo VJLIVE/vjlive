@@ -14,7 +14,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-medium-icon-download-in-svg-png-gif-file-formats--logo-social-media-brand-iconography-pack-logos-icons-10918999.png?f=webp&w=512" height="45" alt="medium logo" />
   </a>
   <a href="https://x.com/2210_vj" target="_blank">
-    <img src="https://i.postimg.cc/VLwHLm29/logo-white.png" height="40" alt="twitter logo" />
+    <img src="https://i.postimg.cc/VLwHLm29/logo-white.png" height="35" alt="twitter logo" />
   </a>
   <a href="https://discord.com/users/761583330255699990" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
