@@ -141,14 +141,16 @@
 <br>
 
 <h2 align="center">Stats:</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: auto;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; max-width: 900px; margin: auto;">
+  <!-- Row 1: 1st and 4th -->
   <div style="display: flex; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vjlive&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
-    <img src="https://github-contributor-stats.vercel.app/api?username=vjlive&limit=5&combine_all_yearly_contributions=true" alt="Top Contributed Graph" height="200"/>
-  </div>
-  <div style="display: flex; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vjlive&show_icons=true&locale=en" alt="GitHub Stats" height="200"/>
     <img src="https://github-readme-streak-stats-vjlive.vercel.app?user=vjlive" alt="GitHub Streak" height="200"/>
+  </div>
+  <!-- Row 2: 2nd and 3rd -->
+  <div style="display: flex; gap: 20px;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=vjlive&limit=5&combine_all_yearly_contributions=true" alt="Top Contributed Graph" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vjlive&show_icons=true&locale=en" alt="GitHub Stats" height="200"/>
   </div>
 </div>
 
