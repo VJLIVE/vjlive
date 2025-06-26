@@ -170,7 +170,7 @@
   
 <h2 align="center">Contribution Graph:</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vjlive&theme=react-dark&bg_color=000000&color=ffffff&line=00cfff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VJLIVE&bg_color=ffffff&color=000000&line=5ea1f7&point=000000&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
 <hr>
