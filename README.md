@@ -154,13 +154,20 @@
     <img src="https://github-contributor-stats.vercel.app/api?username=vjlive&limit=5&combine_all_yearly_contributions=true" alt="Top Contributed Graph" height="185"/>
     <img src="https://github-readme-stats.vercel.app/api?username=vjlive&show_icons=true&locale=en" alt="GitHub Stats" height="185"/>
   </div>
-
 </div>
 
 <h2 align="center">Latest Medium Blogs:</h2>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/2" alt="Recent Article 2" width="100">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/0" alt="Recent Article 0">
+<div align="center" style="max-width: 800px; margin: auto; display: flex; flex-direction: column; gap: 20px;">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/2">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/2" alt="Recent Article 2" style="width: 100%; border-radius: 10px;" />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/1">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/1" alt="Recent Article 1" style="width: 100%; border-radius: 10px;" />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/0" alt="Recent Article 0" style="width: 100%; border-radius: 10px;" />
+  </a>
+</div>
   
 <h2 align="center">Contribution Graph:</h2>
 <div align="center">
