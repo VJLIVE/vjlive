@@ -157,7 +157,7 @@
 </div>
 
 <h2 align="center">Latest Medium Blogs:</h2>
-<div align="center" style="max-width: 800px; margin: auto; display: flex; flex-direction: column; gap: 20px;">
+<div align="center" style="max-width: 700px; margin: auto; display: flex; flex-direction: column; gap: 20px;">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/2">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijayguttula001/2" alt="Recent Article 2" style="width: 100%; border-radius: 10px;" />
   </a>
