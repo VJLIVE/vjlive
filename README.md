@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay Guttula</h1>
+<h1 align="center">Hi, I'm Vijay Guttula</h1>
 <h3 align="center">Web Developer Intern @Codient Systems | Contributor @SSOC'25 | Junior Coding Olympiad Rank 131 | CO Lead @ABC VJIT | MERN Stack Developer |</h3>
 
 <!--Profile Views!-->
