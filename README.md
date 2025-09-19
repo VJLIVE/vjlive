@@ -117,4 +117,4 @@
 
 ### 📫 Contact Me  
 📧 **Email:** [vijayguttula001@gmail.com](mailto:vijayguttula001@gmail.com)  
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1C-1AYBc8KiRskwqcF3CvL9-0whEF51OK/view)
+📄 **Resume:** [View My Resume](https://docs.google.com/document/d/1KIJCr8mbHzflOP8nF165bSTtZz7eX-k0/view)
