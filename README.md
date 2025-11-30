@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vijay Guttula</h1>
-<h3 align="center">Web Developer Intern @Codient Systems | Project Admin @GSSOC'25 | Contributor @SSOC'25 | Junior Coding Olympiad Rank 131 | Lead @ABC VJIT | MERN Stack Developer |</h3>
+<h3 align="center">Web Developer Intern @Codient Systems | Project Admin @GSSOC'25 | Contributor @SSOC'25 | Junior Coding Olympiad Rank 131 | Lead @ABC VJIT | Open Source Lead @GDGC VJIT | MERN Stack Developer |</h3>
 
 <!--Profile Views!-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vjlive&label=Profile%20views&color=0e75b6&style=flat" alt="vjlive" /> </p>
