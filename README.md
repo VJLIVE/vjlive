@@ -7,35 +7,36 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vjlive" alt="vjlive" /></a> </p>
 
 <h2 align="center">Connect with me:</h2>
-<div align="center">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/vijay-guttula/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
   </a>
   <a href="https://medium.com/@vijayguttula001" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-medium-icon-download-in-svg-png-gif-file-formats--logo-social-media-brand-iconography-pack-logos-icons-10918999.png?f=webp&w=512" height="45" alt="medium logo" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-medium-icon-download-in-svg-png-gif-file-formats--logo-social-media-brand-iconography-pack-logos-icons-10918999.png" width="40" />
   </a>
   <a href="https://x.com/2210_vj" target="_blank">
-    <img src="https://i.postimg.cc/VLwHLm29/logo-white.png" height="35" alt="twitter logo" />
+    <img src="https://i.postimg.cc/VLwHLm29/logo-white.png" width="40" />
   </a>
   <a href="https://discord.com/users/761583330255699990" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
   </a>
   <a href="https://www.youtube.com/@vj.2210" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" />
   </a>
-  <a href="mailto:vijayguttula001@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="mailto:vijayguttula001@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
   </a>
   <a href="https://gitlab.com/VJLIVE" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="40" />
   </a>
   <a href="https://instagram.com/_vj_2210" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
   </a>
   <a href="https://www.hackerrank.com/profile/vijayguttula001" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" />
   </a>
-</div>
+</p>
 <br>
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
