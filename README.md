@@ -117,6 +117,6 @@
 <hr>
 
 ### 📫 Contact Me  
-📧 **Email:** [vijayguttula001@gmail.com](mailto:vijayguttula001@gmail.com)  
-🌐 **Portfolio:** [View My Portfolio](https://vijayguttula.me/)
+📧 **Email:** [vijayguttula001@gmail.com](mailto:vijayguttula001@gmail.com)<br>
+🌐 **Portfolio:** [View My Portfolio](https://vijayguttula.me/)<br>
 📄 **Resume:** [View My Resume](https://www.vijayguttula.me/Vijay_Guttula.pdf)
