@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vijay Guttula</h1>
-<h3 align="center">Building @Sketch Brains | Ex-Intern @Lex Fintech | SIH’25 Grand Finalist | Lead @ABC VJIT | Open Source Lead @GDGC VJIT | Junior Coding Olympiad Rank 131 | OCI Certified |</h3>
+<h3 align="center">Building @Sketch Brains | Ex-Intern @Lex Fintech | SIH’25 Grand Finalist | Lead @ABC VJIT | Junior Coding Olympiad Rank 131 | OCI Certified |</h3>
 
 <!--Profile Views!-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vjlive&label=Profile%20views&color=0e75b6&style=flat" alt="vjlive" /> </p>
